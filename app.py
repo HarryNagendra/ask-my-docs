@@ -101,7 +101,7 @@ Question:
         API_URL = "https://api-inference.huggingface.co/models/google/flan-t5-large"
 
         headers = {
-            "Authorization": "Bearer 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"
+            "Authorization": "Bearer YOUR_API_KEY"
         }
 
         payload = {
